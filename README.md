@@ -2,7 +2,7 @@
         conky.conf
 </h1>
 
-Nesse repositório estão configurações para o "layout" do [**Conky**](https://github.com/brndnmtthws/conky/wiki/Configs).
+Configurações para o "layout" do [**Conky**](https://github.com/brndnmtthws/conky/wiki/Configs).
 
 > Icons: **Freepik**
 
