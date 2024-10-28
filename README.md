@@ -2,8 +2,6 @@
         conky.conf
 </h1>
 
-## :memo: Sobre
-
 Nesse repositório estão configurações para o "layout" do [**Conky**](https://github.com/brndnmtthws/conky/wiki/Configs).
 
 > Icons: **Freepik**
@@ -15,13 +13,6 @@ Nesse repositório estão configurações para o "layout" do [**Conky**](https:/
 Conky é um monitor de sistema leve e gratuito para X, que exibe qualquer tipo de informação em sua área de trabalho.
 
 > Veja tudo sobre **Conky** em: [brndnmtthws/conky](https://github.com/brndnmtthws/conky)
-
-## :mag_right: Status
-
-
-<h3 align="center"> 
-	Finalizado :heavy_check_mark:
-</h3>
 
 ## :bulb: Autor
 
